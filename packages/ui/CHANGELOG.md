@@ -1,5 +1,12 @@
 # next-docs-ui
 
+## 12.1.1
+
+### Patch Changes
+
+- 1c3a127: Redesign Tabs component
+  - fumadocs-core@12.1.1
+
 ## 12.1.0
 
 ### Minor Changes
